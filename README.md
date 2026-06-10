@@ -53,8 +53,8 @@ Tangkapan Layar - Screenshot:
 <img width="1864" height="946" alt="opera_VaR7GUfwNp" src="https://github.com/user-attachments/assets/c1ae071a-bb90-49f1-b5f7-c616f73d493e" />
 <img width="1864" height="946" alt="opera_IZgxefdOsN" src="https://github.com/user-attachments/assets/ecfb4ed6-0d6d-4cc8-b5bb-6b3edbcd3ec1" />
 <img width="1864" height="946" alt="opera_2mOWnKaPbz" src="https://github.com/user-attachments/assets/f61542e8-a1ad-44c3-84ad-5d3b411aabc6" />
-<img width="1864" height="946" alt="opera_d816fgNfOW" src="https://github.com/user-attachments/assets/d4c27039-b9a0-48c9-b90f-86645e2a0078" />
 <img width="1864" height="946" alt="opera_XsBKnfhNuX" src="https://github.com/user-attachments/assets/c6983266-2583-4f28-8922-3f9805854091" />
+<img width="1864" height="946" alt="opera_d816fgNfOW" src="https://github.com/user-attachments/assets/d4c27039-b9a0-48c9-b90f-86645e2a0078" />
 <img width="1864" height="946" alt="opera_8pGBtxXgvy" src="https://github.com/user-attachments/assets/25e0a92b-c394-4fde-8984-40328634ea0b" />
 <img width="1864" height="946" alt="opera_MdYX6SGTEr" src="https://github.com/user-attachments/assets/1cc1db4b-cfc6-4b3f-8008-99459ec32211" />
 
