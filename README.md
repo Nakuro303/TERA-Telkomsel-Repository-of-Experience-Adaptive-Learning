@@ -40,12 +40,8 @@ Tangkapan Layar - Screenshot:
 1. Halaman Masuk - Log in Page
 <img width="1864" height="946" alt="opera_CsIxj2wcjQ" src="https://github.com/user-attachments/assets/f17d927d-2703-4095-a181-633f94aa224f" />
 
-
-
 2. Halaman Daftar - Sign up Page
 <img width="1864" height="946" alt="opera_U8NV57HHAz" src="https://github.com/user-attachments/assets/573f669b-e5bc-49ee-8a5a-6840428553fc" />
-
-
 
 3. Halaman Dashboard Teknisi - Technician Dashboard Page
 <img width="1864" height="946" alt="opera_UGZ5m8x1t2" src="https://github.com/user-attachments/assets/eadd0090-0d17-4628-9e76-f13418ef9965" />
@@ -61,8 +57,6 @@ Tangkapan Layar - Screenshot:
 <img width="1864" height="946" alt="opera_d816fgNfOW" src="https://github.com/user-attachments/assets/d4c27039-b9a0-48c9-b90f-86645e2a0078" />
 <img width="1864" height="946" alt="opera_8pGBtxXgvy" src="https://github.com/user-attachments/assets/25e0a92b-c394-4fde-8984-40328634ea0b" />
 <img width="1864" height="946" alt="opera_MdYX6SGTEr" src="https://github.com/user-attachments/assets/1cc1db4b-cfc6-4b3f-8008-99459ec32211" />
-
-
 
 4. Halaman Dashboard Admin - Admin Dasboard Page
 <img width="1864" height="946" alt="opera_JZGKzFfx4d" src="https://github.com/user-attachments/assets/8ca7c878-5510-4f6f-8bd7-33a352df7d74" />
