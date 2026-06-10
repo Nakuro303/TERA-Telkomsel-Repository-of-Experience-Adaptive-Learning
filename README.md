@@ -1,4 +1,5 @@
 BAHASA INDONESIA (ID):
+
 !!!⚠️ PERINGATAN - PROYEK INI SEMATA-MATA DITUJUKAN UNTUK KEPERLUAN AKADEMIK DAN TUGAS PERKULIAHAN. PT TELKOMSEL PADA PROYEK INI HANYA DIGUNAKAN SEBAGI CONTOH PERUSAHAAN HIPOTESIS DALAM STUDI KASUS INI. ⚠️!!!
 
 TERA adalah aplikasi web yang menggabungkan tempat berbagi ilmu (Knowledge Management System) dengan sistem pembelajaran pintar (Adaptive Learning Engine). Aplikasi ini dibuat untuk mengumpulkan, mengelola, dan membagikan semua pengalaman serta panduan perbaikan (troubleshooting) dari para teknisi jaringan Telkomsel di lapangan secara langsung (real-time).
@@ -18,6 +19,7 @@ Akun:
    * Kata Sandi: admin
 
 ENGLISH (ENG):
+
 !!!⚠️ WARNING - THIS PROJECT IS STRICTLY FOR ACADEMIC AND UNIVERSITY COURSEWORK PURPOSES. PT. TELKOMSEL IS USED SOLELY AS A HYPOTHETICAL COMPANY EXAMPLE FOR THIS CASE STUDY. ⚠️!!!
 
 TERA is a web-based application that combines a Knowledge Management System (KMS) with an Adaptive Learning Engine. This platform is designed to collect, manage, and share real-time field experiences and troubleshooting guides among network technicians.
