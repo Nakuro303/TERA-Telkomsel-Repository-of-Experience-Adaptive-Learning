@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #ED1C24;
+  --color-brand-blue: #001A41;
+  --color-brand-dark: #00122e;
+  --color-brand-light: #F8F9FA;
+  --color-brand-hover-red: #C11219;
+}
+
+html, body, #root {
+  background-color: #020617; /* Slate 950 */
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
